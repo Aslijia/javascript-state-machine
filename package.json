@@ -1,10 +1,10 @@
 {
-	"name": "@taoqf/javascript-state-machine",
+	"name": "@Aslijia/javascript-state-machine",
 	"description": "A finite state machine library",
-	"homepage": "https://github.com/taoqf/javascript-state-machine",
+	"homepage": "https://github.com/Aslijia/javascript-state-machine",
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:taoqf/javascript-state-machine.git"
+		"url": "git@github.com:Aslijia/javascript-state-machine.git"
 	},
 	"types": "types/state-machine.d.ts",
 	"keywords": [
