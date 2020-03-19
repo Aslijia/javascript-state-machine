@@ -15,7 +15,7 @@ declare class StateMachine {
 	public historyForward(): void;
 	public canHistory(): boolean;
 	public canhistoryForward(): boolean;
-	protected state: string;
+	readonly state: string;
 	protected history: string[];
 }
 
